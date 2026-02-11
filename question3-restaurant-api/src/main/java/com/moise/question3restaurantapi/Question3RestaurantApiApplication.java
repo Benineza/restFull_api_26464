@@ -1,13 +1,13 @@
-package com.moise.question2_student_api;
+package com.moise.question3restaurantapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Question2StudentApiApplication {
+public class Question3RestaurantApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Question2StudentApiApplication.class, args);
+		SpringApplication.run(Question3RestaurantApiApplication.class, args);
 	}
 
 }

@@ -1,13 +1,13 @@
-package com.moise.question6_userprofile_api;
+package com.moise.question5taskapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Question6UserprofileApiApplication {
+public class Question5TaskApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Question6UserprofileApiApplication.class, args);
+		SpringApplication.run(Question5TaskApiApplication.class, args);
 	}
 
 }

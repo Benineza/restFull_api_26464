@@ -1,4 +1,4 @@
-package com.moise.question4_product_api;
+package com.moise.question4productapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
